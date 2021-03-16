@@ -15,3 +15,5 @@ console.log("Baris keenam");
 //Jumat
 //("Baris ketujuh");
 console.log("Hai, baris baru :P");
+
+console.log("testing");

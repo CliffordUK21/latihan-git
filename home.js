@@ -12,3 +12,4 @@ console.log("Baris ketujuh");
 
 //Jumat
 console.log("Baris kedelapan");
+€ýa:q
